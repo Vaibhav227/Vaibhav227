@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vaibhav Sharma
-I am third year Computer Science student at JIIT.
+I am third year Computer Science student.
 
 
 
