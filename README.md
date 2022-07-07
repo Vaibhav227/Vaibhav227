@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vaibhav Sharma
-I am third year Computer Science student.
+I am final year Computer Science student.
 
 
 
@@ -10,8 +10,7 @@ I am third year Computer Science student.
 ![GitHub metrics](https://metrics.lecoq.io/Vaibhav227)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav227)  
-
-![Profile views](https://gpvc.arturio.dev/Vaibhav227)  
+ 
 
 <!---
 Vaibhav227/Vaibhav227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
