@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vaibhav Sharma
-I am final year Computer Science student.
+
 
 
 
