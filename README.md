@@ -7,23 +7,6 @@ Currently working at **SaaS Labs**, building products used by thousands of busin
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**  
-TypeScript · JavaScript (ES6+) · HTML · CSS · SQL  
-
-**Frontend**  
-React · Remix · Next.js · Astro · Tailwind CSS · Shadcn · Zustand  
-
-**Backend & Infra**  
-Node.js · Express · PostgreSQL · Prisma · Supabase · Cloudflare Workers  
-
-**Tooling**  
-Vite · Turborepo · Docker · CI/CD · Vitest · React Testing Library
-
-
----
-
 ## 🌱 Interests
 
 - Product engineering and developer experience
