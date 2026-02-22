@@ -17,6 +17,6 @@ Currently working at **SaaS Labs**, building products used by thousands of busin
 
 ## 🔗 Connect With Me
 
-- 🌐 Portfolio: https://www.vaibhu.com
+- 🌐 Portfolio: https://www.vaibhavsh.com
 - 💼 LinkedIn: https://linkedin.com/in/vaibhu
 - 📧 Email: sharmavaibhav227@gmail.com
